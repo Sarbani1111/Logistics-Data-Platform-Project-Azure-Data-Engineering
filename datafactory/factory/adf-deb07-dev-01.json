@@ -1,0 +1,15 @@
+{
+	"name": "adf-deb07-dev-01",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f11b3cda-adf2-40dd-a7f2-ee855fd0c762",
+		"tenantId": "72e89b98-43f2-4949-86a0-92ee793b220f"
+	}
+}
